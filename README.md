@@ -24,6 +24,6 @@ O projeto é dividido em etapas fundamentais:
 
 # Diagrama...
 
-Primeira conexão de Bluetooth: PS4Controller -> ESP32 (Sucess)
-Tradução dos comandos: PS4Controller -> Controle Nintendo Switch Pro (...)
+Primeira conexão de Bluetooth: PS4Controller -> ESP32 (Sucess) <br>
+Tradução dos comandos: PS4Controller -> Controle Nintendo Switch Pro (...) <br>
 Segunda conexão Bluetooh: ESP32 como um Controle Nintendo Switch Pro -> Nintendo Switch
